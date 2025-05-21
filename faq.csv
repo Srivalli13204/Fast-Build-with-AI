@@ -1,0 +1,6 @@
+question,answer
+What is LangChain?,LangChain is a framework for building applications with LLMs.
+What is RAG?,Retrieval-Augmented Generation (RAG) improves LLM responses using external data sources.
+Who created LangChain?,LangChain was created by Harrison Chase.
+How does RAG work?,RAG retrieves documents and feeds them to a language model to answer user queries.
+What is FAISS?,FAISS is a library for efficient similarity search and clustering of dense vectors.
